@@ -3,6 +3,10 @@ Uber Trip Analysis Dashboard
 Project Objective:
 Analyze Uber trip data using Power BI to uncover insights into booking trends, revenue, and trip efficiency for informed business decisions.
 
+
+<img width="1453" height="540" alt="image" src="https://github.com/user-attachments/assets/592c45db-6d8f-44c0-9a3a-be94ad85cb98" />
+
+
 Tools Used:
 Power BI (for visualization and dashboard creation), Power Query (for data transformation), and DAX (for dynamic measures and calculations).
 
