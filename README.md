@@ -22,6 +22,9 @@ Examines ride demand based on pickup time (10-minute intervals), day of the week
 Dashboard 3 – Details Tab:
 A detailed grid view with drill-through functionality, allowing users to explore specific trip records and toggle between filtered and full datasets.
 
+<img width="1467" height="712" alt="image" src="https://github.com/user-attachments/assets/4fb2c0d9-d333-473c-9b0e-4f1475793cf9" />
+
+
 Vehicle Type Analysis:
 Displays KPIs by vehicle types in a table/matrix with conditional formatting, sorting, and filtering to support fleet optimization strategies.
 
